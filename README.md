@@ -66,6 +66,8 @@ Currently looking for my first professional role in backend development or ML en
 
 ---
 
+| [**Donation Platform API**](https://github.com/Ja1deR/donation-platform-api) | RESTful API for a community donation platform with social features | ASP.NET Core, JWT, SQL | Layered architecture · Role-based auth |
+
 <p align="center">
   <i>Open to backend and ML engineering roles · Available immediately</i>
 </p>
