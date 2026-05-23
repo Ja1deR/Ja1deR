@@ -42,9 +42,7 @@ Currently looking for my first professional role in backend development or ML en
 **Backend & Tools**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -52,10 +50,10 @@ Currently looking for my first professional role in backend development or ML en
 
 | Project | Description | Stack | Highlights |
 |--------|-------------|-------|-----------|
-| [**Academic Chatbot QA**](#) | Extractive QA chatbot for Deep Learning concepts using XLM-RoBERTa | HuggingFace, Gradio, NLTK | F1 > 70% · Live Gradio demo |
-| [**News Classification**](#) | DistilBERT fine-tuning vs TF-IDF baseline on AG News corpus | Transformers, scikit-learn | 93.25% accuracy · 4.5pp over baseline |
-| [**Seq2Seq Translation EN→FR**](#) | Neural machine translation with Encoder-Decoder LSTM architecture | Keras, Tatoeba corpus | 69.68% val. accuracy · 175k sentence pairs |
-| [**Time Series Forecasting**](#) | Passenger demand forecasting with stacked LSTM | Keras, AirPassengers | R² 0.71 · EarlyStopping + Dropout |
+| [**Academic Chatbot QA**](https://github.com/Ja1deR/academic-chatbot-qa) | Extractive QA chatbot for Deep Learning concepts using XLM-RoBERTa | HuggingFace, Gradio, NLTK | F1 > 70% · Live Gradio demo |
+| [**News Classification**](https://github.com/Ja1deR/news-classification-distilbert) | DistilBERT fine-tuning vs TF-IDF baseline on AG News corpus | Transformers, scikit-learn | 93.25% accuracy · 4.5pp over baseline |
+| [**Seq2Seq Translation EN→FR**](https://github.com/Ja1deR/seq2seq-translation-en-fr) | Neural machine translation with Encoder-Decoder LSTM architecture | Keras, Tatoeba corpus | 69.68% val accuracy · 175k sentence pairs |
+| [**Time Series Forecasting**](https://github.com/Ja1deR/lstm-time-series-forecasting) | Passenger demand forecasting with stacked LSTM | Keras, AirPassengers | R² 0.71 · EarlyStopping + Dropout |
 
 ---
 
