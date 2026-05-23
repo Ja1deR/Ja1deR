@@ -30,6 +30,7 @@ Currently looking for my first professional role in backend development or ML en
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI / ML**
@@ -42,11 +43,12 @@ Currently looking for my first professional role in backend development or ML en
 **Backend & Tools**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🤖 AI/ML Projects
+## 🤖 AI / ML Projects
 
 | Project | Description | Stack | Highlights |
 |--------|-------------|-------|-----------|
@@ -54,6 +56,12 @@ Currently looking for my first professional role in backend development or ML en
 | [**News Classification**](https://github.com/Ja1deR/news-classification-distilbert) | DistilBERT fine-tuning vs TF-IDF baseline on AG News corpus | Transformers, scikit-learn | 93.25% accuracy · 4.5pp over baseline |
 | [**Seq2Seq Translation EN→FR**](https://github.com/Ja1deR/seq2seq-translation-en-fr) | Neural machine translation with Encoder-Decoder LSTM architecture | Keras, Tatoeba corpus | 69.68% val accuracy · 175k sentence pairs |
 | [**Time Series Forecasting**](https://github.com/Ja1deR/lstm-time-series-forecasting) | Passenger demand forecasting with stacked LSTM | Keras, AirPassengers | R² 0.71 · EarlyStopping + Dropout |
+
+## 🔧 Backend Projects
+
+| Project | Description | Stack | Highlights |
+|--------|-------------|-------|-----------|
+| [**Donation Platform API**](https://github.com/Ja1deR/donation-platform-api) | RESTful API for a community donation platform with social features | ASP.NET Core, JWT, SQL | Layered architecture · Role-based auth · 3 branches |
 
 ---
 
@@ -65,8 +73,6 @@ Currently looking for my first professional role in backend development or ML en
 </p>
 
 ---
-
-| [**Donation Platform API**](https://github.com/Ja1deR/donation-platform-api) | RESTful API for a community donation platform with social features | ASP.NET Core, JWT, SQL | Layered architecture · Role-based auth |
 
 <p align="center">
   <i>Open to backend and ML engineering roles · Available immediately</i>
